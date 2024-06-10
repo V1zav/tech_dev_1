@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-06-10T21:35:32.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="3Jbblg6ElscFk476V3IW" version="24.5.2" type="github">
+  <diagram name="Страница — 1" id="lcfQLkXBKduHPgVKo9eG">
+    <mxGraphModel dx="955" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QNJieMrCpYPd8UyYn-tG-1" value="Contact" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QNJieMrCpYPd8UyYn-tG-2" value="ID(PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QNJieMrCpYPd8UyYn-tG-1">
+          <mxGeometry y="150" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QNJieMrCpYPd8UyYn-tG-4" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: medium; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Name:&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: medium; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: medium; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Email:&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: medium; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: medium; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Phone:&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: medium; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap: wrap; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;Address:&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QNJieMrCpYPd8UyYn-tG-1">
+          <mxGeometry x="55" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QNJieMrCpYPd8UyYn-tG-10" value="User" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QNJieMrCpYPd8UyYn-tG-11" value="ID(PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QNJieMrCpYPd8UyYn-tG-10">
+          <mxGeometry y="150" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QNJieMrCpYPd8UyYn-tG-12" value="&lt;font size=&quot;3&quot; face=&quot;Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Username:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Email:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;Password:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QNJieMrCpYPd8UyYn-tG-10">
+          <mxGeometry x="50" y="50" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QNJieMrCpYPd8UyYn-tG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNJieMrCpYPd8UyYn-tG-11" target="QNJieMrCpYPd8UyYn-tG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
