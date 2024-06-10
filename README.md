@@ -11,7 +11,7 @@ Sort contacts by name, email, phone number, and address
 # Installation
 Clone the repository:
 ```
-git clone https://github.com/yourusername/contact-management-system.git
+git clone https://github.com/V1zav/tech_dev_1
 cd contact-management-system
 ```
 Create and activate a virtual environment:
