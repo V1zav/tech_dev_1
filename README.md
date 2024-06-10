@@ -1,3 +1,23 @@
+# Заварін Валентин КВ-31мн
+lab1
+
+Тема: Розробка серверної частини Web-додатка» 
+
+Завдання:
+
+Запропонувати тематику Web-додатку (див. рекомендований список).
+Ознайомившись з переліком обов’язкових функцій, виконати їх кодування, використовуючи Django:
+Встановити середовище розробки (рекомендовано Pycharm Community Edition)
+Встановити virtualenv, Django, DRF (Приклад)
+Розробити базу даних, створити проєкт Django та його необхідні додатки
+Наповнити даними базу за допомогою Django Admin Panel
+Розробити функціональність відповідно до обраного завдання 
+За бажанням студента доповнити сайт іншими функціями.
+Створити документацію API у форматі redoc
+Створити необхідні запити та тести у Postman, впевнитись у коректній роботі серверного API.
+Підготувати звіт, створити репозиторій та завантажити усі власні файли на github.com.
+
+
 # Contact Management System
 This is a Django-based Contact Management System that allows users to add, edit, delete, and search contacts. The system includes a front-end built with HTML, CSS, and JavaScript (using jQuery for AJAX calls).
 
