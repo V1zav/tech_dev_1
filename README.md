@@ -59,6 +59,9 @@ Use the sort buttons to sort contacts by name, email, phone number, or address.
 
 # API Endpoints
 GET /api/contacts/: Retrieve a list of contacts.
+
 POST /api/contacts/: Add a new contact.
+
 PUT /api/contacts/{id}/: Update an existing contact.
+
 DELETE /api/contacts/{id}/: Delete a contact.
