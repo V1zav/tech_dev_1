@@ -1,6 +1,8 @@
 # Contact Management System
 This is a Django-based Contact Management System that allows users to add, edit, delete, and search contacts. The system includes a front-end built with HTML, CSS, and JavaScript (using jQuery for AJAX calls).
 
+Google Docs: https://docs.google.com/document/d/1dSMBMgTc4dVGUnesh-6GZvC6I_S9YO9g-ZR_F5SXt2Y/edit?usp=sharing
+
 # Features
 Add new contacts
 Edit existing contacts
