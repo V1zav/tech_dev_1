@@ -10,10 +10,10 @@ Sort contacts by name, email, phone number, and address
 
 # Installation
 Clone the repository:
-
+'''
 'git clone https://github.com/yourusername/contact-management-system.git'
 'cd contact-management-system'
-
+'''
 Create and activate a virtual environment:
 
 'python -m venv venv'
