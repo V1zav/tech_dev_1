@@ -15,30 +15,30 @@ git clone https://github.com/yourusername/contact-management-system.git
 cd contact-management-system
 ```
 Create and activate a virtual environment:
-
-'python -m venv venv'
-`venv\Scripts\activate`
-
+```
+python -m venv venv
+venv\Scripts\activate
+```
 Install the required packages:
-
+```
 pip install -r requirements.txt
-
+```
 Apply migrations:
-
+```
 python manage.py migrate
-
+```
 Create a superuser:
-
+```
 python manage.py createsuperuser
-
+```
 Run the development server:
-
+```
 python manage.py runserver
-
+```
 Open your browser and navigate to:
-
+```
 http://127.0.0.1:8000/
-
+```
 # Usage
 Navigate to the Contacts Page:
 On the homepage, click on the "Contacts" link to navigate to the contacts page.
